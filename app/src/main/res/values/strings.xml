@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chat GPT 3.0</string>
+    <string name="chat_gpt_3_0">Chat GPT 3.0</string>
+    <string name="input_your_query_here">Input your Query Here ???</string>
+    <string name="answer_me">Answer ME</string>
+    <string name="todo">TODO</string>
+</resources>
